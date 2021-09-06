@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm an NSERC postdoctoral research fellow in the Department of Psychology at the University of Waterloo, working with Dr. Daniel Smilek in the Vision & Attention Laboratory.
+
+My [research](https://sites.google.com/site/effiejpereira/research-interests) investigates the **temporal dynamics of human cognition** – in particular, I am interested in the ways that cognitive processes fluctuate over time and give rise to seemingly random variations in behaviour that are in fact quite predictable. Over the years, I have examined temporal dynamics in internal attention, in social attention, and in real world environments.
+
+Outside of academia, I'm a statistics nerd and an avid baseball fan, and am usually more than happy to chat for hours about either.
 
 A data-driven personal website
 ======
