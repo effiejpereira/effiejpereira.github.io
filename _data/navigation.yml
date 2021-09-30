@@ -1,25 +1,4 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Presentations"
-    url: /presentations/
-
-  - title: "Software"
-    url: /software/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Service"
-    url: /service/
-        
-  - title: "News"
-    url: /news/
-      
-  - title: "Guide"
-    url: /markdown/
+  - title: "CV"
+    url: /files/effie j pereira- CV (sep 2021).pdf
