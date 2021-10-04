@@ -1,4 +1,11 @@
 # main links links
 main:
+
+  - title: "Research Interests"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
   - title: "CV"
-    url: /files/effie j pereira- CV (sep 2021).pdf
+    url: /files/Effie J Pereira- CV.pdf
