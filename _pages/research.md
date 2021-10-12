@@ -10,7 +10,7 @@ author_profile: true
 
 Over the decades, much of our work on cognitive mechanisms has been directed by James’ notion of perchings and flights. For example, within attention, we know a considerable deal about how our minds stay perched and focused on a task or goal, and we are discovering what it means to have our minds fly away from our task and wander through our internal mental landscape. However, considerably less focus has been given to what our patterns of alternations represent, and the notion that individuals may have consistent and predictable ebbs and flows in cognitive processes over time.
 
-As such, my research program looks at the **temporal dynamics in human cognition**, with a particular focus on uncovering stable and fluctuating patterns of attention over time. Using converging behavioural, computational, and physiological approaches, I am conducting three related lines of research investigating temporal dynamics in: (1) internal attention, (2) social attention, and (3) embedded attention.
+As such, my research program looks at **temporal dynamics in human cognition**, with a particular focus on uncovering stable and fluctuating patterns of attention over time. Using converging behavioural, computational, and physiological approaches, I am conducting three related lines of research investigating temporal dynamics in: (1) internal attention, (2) social attention, and (3) embedded attention.
 
 
 
