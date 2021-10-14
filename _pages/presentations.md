@@ -10,11 +10,11 @@ author_profile: true
 
 ### Interested minds are predictable minds: Establishing a link between individual traits and temporal fluctuations of attentional engagement.
 **Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.
-[recorded talk]()
+[recorded talk](/files/talks/CSBBCS_2021_Pereira.mp4)
 
 ### Examining the relation between oral contraceptive use and trait- and state-level attention.
 Smith, A. C., **Pereira, E. J.**, & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.
-[recorded talk]()
+[recorded talk](/files/talks/CSBBCS_2021_Smith.mp4)
 
 ### Within-individual oscillatory patterns of mind wandering and attentive states are associated with functional life outcomes.
 **Pereira, E. J.** & Ristic, J. (Jun 2019). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Waterloo, ON.
@@ -22,7 +22,7 @@ Smith, A. C., **Pereira, E. J.**, & Smilek, D. (Jun 2021). _Talk, Canadian Socie
 
 ### Within-individual oscillatory patterns of mind wandering and attentive states are associated with functional life outcomes.
 **Pereira, E. J.** & Ristic, J. (May 2019). _Talk, Healthy Brains for Healthy Lives Research Day_; Montreal, QC.
-[recorded talk]()
+[recorded talk](/files/talks/HBHL_2019_Pereira.mp4)
   * _CFREF Healthy Brains for Healthy Lives Award, Best Oral Presentation_
 
 ### Oscillatory patterns of mind wandering predict real-world costs & benefits.
