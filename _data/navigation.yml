@@ -13,5 +13,8 @@ main:
   - title: "Software"
     url: /software/
 
+  - title: "News"
+    url: /news/
+
   - title: "CV"
     url: /files/Effie J Pereira- CV.pdf
