@@ -17,6 +17,8 @@ As such, my research program looks at **temporal dynamics in human cognition**, 
 ## Temporal Dynamics in Internal Attention
 ------
 
+![internal](/images/attentionInternal.gif)
+
 When attentional processes are not fully engaged on our external environment, attention can fluctuate and turn towards internal states, through mind wandering and mental simulation. These transient states account for 30-50% of our waking lives, and they have a large impact on behaviour, both negative and positive. For example, mind wandering is linked to negative outcomes in learning, comprehension, and mood, as well as positive outcomes in creativity, decision-making, and social problem solving. To date, **we do not have a clear understanding of how internal states of attention result in vastly differential impacts**.
 
 In my work, I have characterized temporal fluctuations between attentive and mind wandering states _(i)_ within individuals, _(ii)_ across tasks and motivation, and _(iii)_ within neural mechanisms to uncover the effect of temporal patterns on real life outcomes. To date, I have found that each individual has consistent repetitive patterns of mind wandering that can be linked to distinct positive and negative outcomes in behaviour.
@@ -27,6 +29,8 @@ In my work, I have characterized temporal fluctuations between attentive and min
 ## Temporal Dynamics in Social Attention
 ------
 
+![internal](/images/attentionSocial.gif)
+
 When attention is engaged on our immediate environment, people and faces are perhaps the most important sources of information we encounter in our inherently social world. For this reason, attention to social information is functionally distinct and is found to be highly prioritized over attention to non-social sources. However, despite the importance of social information, **we do not have a thorough understanding of the temporal nature of social attention and how this behaviour varies across higher levels of interaction**.
 
 In my work, I have examined the factors that impact social attention on a moment-to-moment basis _(i)_ across behavioural data, _(ii)_ within eye tracking data, _(iii)_ in electrophysiological states, and _(iv)_ across real-life and simulated interactions. To date, I have uncovered that social attention is a lot more fleeting than we once realized and that task-based and contextual factors play a large role in determining the degree to which this effect occurs as an early or late process.
@@ -36,6 +40,8 @@ In my work, I have examined the factors that impact social attention on a moment
 
 ## Temporal Dynamics in Embedded Attention
 ------
+
+![internal](/images/attentionEmbedded.gif)
 
 When studying attention within ecological contexts, there is a strong interaction across external perception, internal goals, emotional states, and memorial stores that impact both short- and long-term attentional effects. Therefore, to understand attention across these multidimensional processes, **it is critical to situate temporal dynamics of attention within an embedded framework that encompasses daily life settings**.
 
