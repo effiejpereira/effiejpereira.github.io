@@ -27,3 +27,5 @@ group :jekyll_plugins do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
+gem 'jekyll-seo-tag' # A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content
