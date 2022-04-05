@@ -15,15 +15,17 @@ Single copies of the articles posted here may be downloaded and printed for pers
 ### On-task, Off-task, Rinse, & Repeat: Fluctuating patterns of attentive and mind wandering states are associated with differential outcomes.
 **Pereira, E. J.** & Ristic, J. (under review). _Journal of Experimental Psychology: General_.
 
-### Social attention as a domain-general system: Demonstrating the influence of stimulus content factors on attentional biasing.
-**Pereira, E. J.**, Birmingham, E., & Ristic, J. (in revision). _Journal of Experimental Psychology: Human Perception and Performance_.
-
-### Infrequent novel faces bias social attention in manual and oculomotor measures.
-**Pereira, E. J.**, Birmingham, E., & Ristic, J. (in revision). _Attention, Perception, & Psychophysics_.
-
 
 ## Articles published in peer-review journals
 ------
+
+### Social attention as a general mechanism? Demonstrating the influence of stimulus content factors on social attentional biasing.
+**Pereira, E. J.**, Birmingham, E., & Ristic, J. (2022). _Journal of Experimental Psychology: Human Perception and Performance, 48(4)_, 289 – 311.
+[pdf](/files/pdf/pereira birmingham ristic- social attention as a general mechanism.pdf)
+
+### Infrequent faces bias social attention differently in manual and oculomotor measures.
+**Pereira, E. J.**, Birmingham, E., & Ristic, J. (2022). _Attention, Perception, & Psychophysics_.
+[pdf](/files/pdf/pereira birmingham ristic- infrequent faces bias social attention differently in manual and oculomotor measures.pdf)
 
 ### Trait-level variability in attention modulates mind wandering and academic achievement.
 **Pereira, E. J.**, Gurguryan, L., & Ristic, J. (2020). _Frontiers in Psychology, 11_, 909.
@@ -87,7 +89,7 @@ Driver, H. S., **Pereira, E. J.**, Bjerring, K., Toop, F., Stewart, S. C., Munt,
 ## Articles in preparation
 ------
 
-### Attention in hindsight: Using video-stimulated recall as a novel approach to capturing fluctuations in attentional engagement.
+### Attention in hindsight: Using video-stimulated recall to capture detailed fluctuations in attentional engagement.
 **Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D.
 
 ### Interested minds are predictable minds: Establishing a link between individual traits and temporal fluctuations of attentional engagement.
@@ -114,17 +116,17 @@ Driver, H. S., **Pereira, E. J.**, Bjerring, K., Toop, F., Stewart, S. C., Munt,
 ### Unpredictable minds and dysfunctional emotions: The link between predictability of unintentional mind wandering and affective dysfunction in everyday life.
 **Pereira, E. J.** & Smilek, D.
 
+### Online chatrooms impact attentional engagement during video lectures.
+**Pereira, E. J.**, Stuart, N., Ayers-Glassey, S., Korst-Fagundes, B., & Smilek, D.
+
 ### Examining the presence of self-video in contributing to attentional and memorial deficits of Zoom fatigue.
 Ayers-Glassey, S., **Pereira, E. J.**, Hicks, L., Korst-Fagundes, B., & Smilek, D.
 
 ### Searching through the Clutter: Using Surface Guidance Framework to Explore Set Size Effects in Scenes.
 Castelhano, M. S., & **Pereira, E. J.**
 
-### Examining the prevalence of voluntary media multitasking in the digital world.
-Drody, A., **Pereira, E. J.**, & Smilek, D.
-
 ### Attention in our digital ecosystem: A risk assessment framework of voluntary media multitasking.
 Drody, A., **Pereira, E. J.**, & Smilek, D.
 
-### Online chatrooms impact attentional engagement during video lectures.
-Stuart, N., **Pereira, E. J.**, Ayers-Glassey, S., Korst-Fagundes, B., & Smilek, D.
+### Examining the prevalence of voluntary media multitasking in the digital world.
+Drody, A., **Pereira, E. J.**, & Smilek, D.

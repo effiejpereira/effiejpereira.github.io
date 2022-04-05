@@ -50,6 +50,9 @@ Ristic, J., Birmingham, E., & **Pereira, E. J.** (Nov 2017). _Talk, Psychonomics
 ## Posters
 ------
 
+### Faces may not be special for attention after all.
+**Pereira, E. J.** & Ristic, J. (Jun 2022). _Poster, Vision Sciences Society_; Virtual Meeting.
+
 ### Attention in hindsight: Using video-stimulated recall as a novel approach to capturing fluctuations in self-reported attentional engagement.
 Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jun 2021). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.
 [poster](/files/posters/Ayers-Glassey Pereira Wammes Smilek- Attention in Hindsight CSBBCS 2021.pdf)
