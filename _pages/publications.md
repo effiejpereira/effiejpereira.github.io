@@ -13,7 +13,7 @@ Single copies of the articles posted here may be downloaded and printed for pers
 ------
 
 ### A desire for distraction: Uncovering the rates of media multitasking during online research studies.
-Drody, A. C., **Pereira, E. J.**, & Smilek, D. (under review). _Psychological Science_.  
+Drody, A. C., **Pereira, E. J.**, & Smilek, D. (under review). _Nature Human Behaviour_.  
 <a href="https://osf.io/bd94j/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 
 
@@ -112,7 +112,7 @@ Driver, H. S., **Pereira, E. J.**, Bjerring, K., Toop, F., Stewart, S. C., Munt,
 ## Articles in preparation
 ------
 
-### Attention in hindsight: Using video-stimulated recall to capture detailed fluctuations in attentional engagement.
+### Attention in hindsight: Using stimulated recall to capture detailed fluctuations in attentional engagement.
 **Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D.
 
 ### Interested minds are predictable minds: Establishing a link between individual traits and temporal fluctuations of attentional engagement.
@@ -153,3 +153,4 @@ Castelhano, M. S., & **Pereira, E. J.**
 
 ### Attention in our digital ecosystem: A risk assessment framework of voluntary media multitasking.
 Drody, A. C., **Pereira, E. J.**, & Smilek, D.
+* Co-first authorship; equal contribution to the manuscript

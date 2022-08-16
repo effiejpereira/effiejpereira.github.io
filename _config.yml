@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Effie J. Pereira"
 title_separator          : "-"
 name                     : &name "Effie J. Pereira"
-description              : &description "Effie Pereira, NSERC Postdoctoral Research Fellow, University of Waterloo"
+description              : &description "Effie Pereira, NSERC Banting Postdoctoral Research Fellow, University of Waterloo"
 url                      : https://effiejpereira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "effiejpereira/effiejpereira.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Effie J. Pereira"
   avatar           : "ejp_profile.png"
-  bio              : "NSERC Postdoctoral Research Fellow"
+  bio              : "NSERC Banting Postdoctoral Research Fellow"
   location         : "University of Waterloo, ON"
   employer         :
   pubmed           :

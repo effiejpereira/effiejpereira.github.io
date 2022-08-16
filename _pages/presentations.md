@@ -13,6 +13,7 @@ Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jul 2022). _
 
 ### Does ‘the pill’ predict attention? The relation between oral contraceptive use and sustained attention.
 Smith, A. C., **Pereira, E. J.**, & Smilek, D. (Jul 2022). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Halifax, NS.
+* _CSBBCS Hebb Student Award, Best Oral Presentation_
 
 ### Interested minds are predictable minds: Establishing a link between individual traits and temporal fluctuations of attentional engagement.
 **Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
