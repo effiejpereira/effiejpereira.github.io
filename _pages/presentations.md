@@ -5,22 +5,26 @@ permalink: /presentations/
 author_profile: true
 ---
 
+Graduate and undergraduate student trainees are underlined.
+{: .notice}
+
+
 ## Talks
 ------
 
 ### Mind-wandering is not as memorable as attentional engagement: Probe framing affects retrospective reporting of remembered attentional states.
-Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jul 2022). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Halifax, NS.
+<ins>Ayers-Glassey, S.</ins>, **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jul 2022). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Halifax, NS.
 
 ### Does ‘the pill’ predict attention? The relation between oral contraceptive use and sustained attention.
-Smith, A. C., **Pereira, E. J.**, & Smilek, D. (Jul 2022). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Halifax, NS.
+<ins>Smith, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (Jul 2022). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Halifax, NS.
 * _CSBBCS Hebb Student Award, Best Oral Presentation_
 
 ### Interested minds are predictable minds: Establishing a link between individual traits and temporal fluctuations of attentional engagement.
-**Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
+**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
 <a href="/files/talks/CSBBCS_2021_Pereira.mp4" target="_blank"><img src="/images/icons/video.png" width="20" height="20"></a>
 
 ### Examining the relation between oral contraceptive use and trait- and state-level attention.
-Smith, A. C., **Pereira, E. J.**, & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
+<ins>Smith, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (Jun 2021). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
 <a href="/files/talks/CSBBCS_2021_Smith.mp4" target="_blank"><img src="/images/icons/video.png" width="20" height="20"></a>
 
 ### Within-individual oscillatory patterns of mind wandering and attentive states are associated with functional life outcomes.
@@ -42,16 +46,16 @@ Smith, A. C., **Pereira, E. J.**, & Smilek, D. (Jun 2021). _Talk, Canadian Socie
 Ristic, J., Birmingham, E., & **Pereira, E. J.** (Nov 2017). _Talk, Psychonomics Society_; Vancouver, BC.
 
 ### Functional fractionation of the default mode network is associated with real-world mind wandering behaviours.
-**Pereira, E. J.**, Gurguryan, L., & Ristic, J. (Sep 2016). _Talk, Graduate Student Colloquium_; Montreal, QC.
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, & Ristic, J. (Sep 2016). _Talk, Graduate Student Colloquium_; Montreal, QC.
 
 ### Functional fractionation of the default mode network is associated with real-world mind wandering behaviours.
-**Pereira, E. J.**, Gurguryan, L., & Ristic, J. (Jun 2016). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Ottawa, ON.
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, & Ristic, J. (Jun 2016). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Ottawa, ON.
 
 ### The Utility of Questionnaires & Portable Monitoring for the Diagnosis of Obstructive Sleep Apnea.
 **Pereira, E. J.**, Driver, H. S., Stewart, S. C., & Fitzpatrick, M. F. (Jun 2012). _Oral symposium, Ottawa-Kingston Respirology PneumoClub_; Ottawa, ON.
 
 ### Validated Questionnaires and an Ambulatory Monitor in the Diagnosis of Obstructive Sleep Apnea.
-**Pereira, E. J., Driver, H. S., Stewart, S. C., & Fitzpatrick, M. F. (Sep 2011). _Sleep Medicine, 12_(1), S12. _Oral symposium, International World Sleep Congress & Conference of the Canadian Sleep Society_; Quebec City, QC.
+**Pereira, E. J.**, Driver, H. S., Stewart, S. C., & Fitzpatrick, M. F. (Sep 2011). _Sleep Medicine, 12_(1), S12. _Oral symposium, International World Sleep Congress & Conference of the Canadian Sleep Society_; Quebec City, QC.
 
 
 ## Posters
@@ -62,7 +66,7 @@ Ristic, J., Birmingham, E., & **Pereira, E. J.** (Nov 2017). _Talk, Psychonomics
 <a href="/files/posters/Pereira Ristic- Faces may not be special for attention after all V-VSS 2022.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Attention in hindsight: Using video-stimulated recall as a novel approach to capturing fluctuations in self-reported attentional engagement.
-Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jun 2021). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
+<ins>Ayers-Glassey, S.</ins>, **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jun 2021). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Virtual Meeting.  
 <a href="/files/posters/Ayers-Glassey Pereira Wammes Smilek- Attention in Hindsight CSBBCS 2021.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>  
 * _CSBBCS Hebb Student Award, Best Poster Presentation_
 
@@ -72,7 +76,7 @@ Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jun 2021). _
 * _J. Frank Yates Student Conference Award_
 
 ### Variability in the content of mind wandering is associated with intrinsic connectivity within the default network.
-**Pereira, E. J.**, Gurguryan, L., Sheldon, S., & Ristic, J. (Nov 2019). _Poster, Object, Perception, Attention, & Memory_; Montreal, QC.  
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, Sheldon, S., & Ristic, J. (Nov 2019). _Poster, Object, Perception, Attention, & Memory_; Montreal, QC.  
 <a href="/files/posters/Pereira Gurguryan Sheldon Ristic- Variability in the content of mind wandering is associated with intrinsic connectivity within the default network OPAM 2019.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Overt social attention is differentially affected by differences in stimulus content information.
@@ -84,7 +88,7 @@ Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jun 2021). _
 <a href="/files/posters/Pereira Birmingham Ristic- Looking at faces is differentially modulated by context and novelty VSS 2018.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Who are you again? The butcher-on-the-bus phenomenon revisited.
-**Pereira, E. J.**, Markham, R., & Ristic, J. (Nov 2017). _Poster, Object Perception, Attention, & Memory_; Vancouver, BC.  
+**Pereira, E. J.**, <ins>Markham, R.</ins>, & Ristic, J. (Nov 2017). _Poster, Object Perception, Attention, & Memory_; Vancouver, BC.  
 <a href="/files/posters/Pereira Markham Ristic- Who are you again OPAM 2017.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### On-task, Off-task, Rinse, & Repeat: Oscillatory patterns of mind wandering predict real-world functioning.
@@ -92,7 +96,7 @@ Ayers-Glassey, S., **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jun 2021). _
 <a href="/files/posters/Pereira Ristic- On-Task Off-Task Rinse Repeat PS 2017.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Wandering Minds & Dwindling Grades: Temperament traits and acdemic performance predict rates of mind wandering.
-Gurguryan, L., **Pereira, E. J.**, & Ristic, J. (Jun 2016). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Ottawa, ON.  
+<ins>Gurguryan, L.</ins>, **Pereira, E. J.**, & Ristic, J. (Jun 2016). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Ottawa, ON.  
 <a href="/files/posters/Gurguryan Pereira Ristic- Wandering Minds Dwindling Grades CSBBCS 2016.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### The Eyes don't have it after all? Attention is not biased towards faces or eyes.
@@ -100,22 +104,22 @@ Gurguryan, L., **Pereira, E. J.**, & Ristic, J. (Jun 2016). _Poster, Canadian So
 <a href="/files/posters/Pereira Birmingham Ristic- The Eyes don't have it after all VSS 2016.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Controlling a Wandering Mind: Tasks dictate differences in the estimates of mind wandering.
-**Pereira, E. J.**, Gurguryan, L., & Ristic, J. (Jun 2015). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Ottawa, ON.  
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, & Ristic, J. (Jun 2015). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Ottawa, ON.  
 <a href="/files/posters/Pereira Gurguryan Ristic- Controlling a Wandering Mind CSBBCS 2015.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### What's that smile worth? Social reward influences spatial orienting.
-Hayward, D. A., **Pereira, E. J.**, Vogel, T. A., & Ristic, J. (May 2015). _Poster, Vision Sciences Society_; St. Pete Beach, FL.  
+Hayward, D. A., **Pereira, E. J.**, Vogel, T. A., <ins>Stewart, K. E.</ins>, & Ristic, J. (May 2015). _Poster, Vision Sciences Society_; St. Pete Beach, FL.  
 <a href="/files/posters/Hayward Pereira Vogel Stewart Ristic- What's that smile worth VSS 2015.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Is a Picture worth a Thousand Objects? How set size and scene context affect visual search efficiency.
-Tian, L., **Pereira, E. J.**, & Castelhano, M. S. (Nov 2014). _Poster, Object Perception, Attention, & Memory_; Long Beach, CA.
+<ins>Tian, L.</ins>, **Pereira, E. J.**, & Castelhano, M. S. (Nov 2014). _Poster, Object Perception, Attention, & Memory_; Long Beach, CA.
 
 ### Inhibition of attention to irrelevant areas of a scene: Investigating mechanisms of attention during visual search.
-**Pereira, E. J.**, Liu, Y. Q., & Castelhano, M. S. (Jul 2014). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Toronto, ON.  
+**Pereira, E. J.**, <ins>Liu, Y. Q.</ins>, & Castelhano, M. S. (Jul 2014). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Toronto, ON.  
 <a href="/files/posters/Pereira Liu Castelhano- Inhibition of attention to irrelevant areas of a scene during visual search VSS 2014.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Inhibition of attention to irrelevant areas of a scene: Investigating mechanisms of attention during visual search.
-**Pereira, E. J.**, Liu, Y. Q., & Castelhano, M. S. (May 2014). _Poster, Vision Sciences Society_; St. Pete Beach, FL.  
+**Pereira, E. J.**, <ins>Liu, Y. Q.</ins>, & Castelhano, M. S. (May 2014). _Poster, Vision Sciences Society_; St. Pete Beach, FL.  
 <a href="/files/posters/Pereira Liu Castelhano- Inhibition of attention to irrelevant areas of a scene during visual search VSS 2014.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### The Influence of Scene Context on Parafoveal Processing of Objects.
@@ -127,18 +131,18 @@ Tian, L., **Pereira, E. J.**, & Castelhano, M. S. (Nov 2014). _Poster, Object Pe
 <a href="/files/posters/Pereira Castelhano- The influence of scene context on parafoveal processing of objects VSS 2013.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Deconstructing the Wisconsin Card Sort Test: Investigating Cognitive Impairments in Schizophrenia using Eye Tracking.
-**Pereira, E. J.**, David, L. A., Stefanik, L. N., & Bowie, C. R. (Apr 2013). _Poster, International Congress on Schizophrenia Research: Cognition Satellite Meeting_; Orlando, FL.  
+**Pereira, E. J.**, <ins>David, L. A.</ins>, <ins>Stefanik, L. N.</ins>, & Bowie, C. R. (Apr 2013). _Poster, International Congress on Schizophrenia Research: Cognition Satellite Meeting_; Orlando, FL.  
 <a href="/files/posters/Pereira David Stefanik Bowie- Deconstructing the WCST ICSR 2013.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Cognitive mechanisms underlying adaptive behaviour on a performance-based measure in schizophrenia: An eye tracking study.
-Gupta, M., **Pereira, E. J.**, Stefanik, L., Holshausen, K., David, L., & Bowie, C. R. (Apr 2013). _Poster, International Congress on Schizophrenia Research: Cognition Satellite Meeting_; Orlando, FL.
+Gupta, M., **Pereira, E. J.**, <ins>Stefanik, L.</ins>, Holshausen, K., <ins>David, L.</ins>, & Bowie, C. R. (Apr 2013). _Poster, International Congress on Schizophrenia Research: Cognition Satellite Meeting_; Orlando, FL.
 
 ### On-Line Contributions of Peripheral Information to Visual Search in Scenes: Further Explorations of Object Content and Scene Context.
 **Pereira, E. J.** & Castelhano, M. S. (May 2012). _Journal of Vision, 12_(9), 740. _Poster, Vision Sciences Society_; Naples, FL.  
 <a href="/files/posters/Pereira Castelhano- On-line contributions of peripheral information to visual search in scenes VSS 2012.pdf" target="_blank"><img src="/images/icons/image.png" width="20" height="20"></a>
 
 ### Expiratory Threshold Loading in Obesity and Obstructive Sleep Apnea.
-**Pereira, E. J.**, Tang, C., Glew, J. R., Driver, H. S., & Fitzpatrick, M. F. (Sep 2011). _Sleep Medicine, 12_(1), S107. _Poster, International World Sleep Congress & Conference of the Canadian Sleep Society_; Quebec City, QC.
+**Pereira, E. J.**, <ins>Tang, C.</ins>, Glew, J. R., Driver, H. S., & Fitzpatrick, M. F. (Sep 2011). _Sleep Medicine, 12_(1), S107. _Poster, International World Sleep Congress & Conference of the Canadian Sleep Society_; Quebec City, QC.
 
 ### Guidance during Visual Search in Real-World Scenes: Scene Context vs. Object Content.
 **Pereira, E. J.** & Castelhano, M. S. (May 2011). _Journal of Vision, 11_, 1320. _Poster, Vision Sciences Society_; Naples, FL.  

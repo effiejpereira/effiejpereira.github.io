@@ -8,12 +8,26 @@ author_profile: true
 Single copies of the articles posted here may be downloaded and printed for personal and academic (i.e., non-commercial) research only. Copyright is maintained by the authors and other copyright holders, and it is understood that anyone copying this information should adhere to the terms of these copyrights. These works may not be posted elsewhere without express written permission of the author(s) and copyright holder(s).
 {: .notice}
 
+Graduate and undergraduate student trainees are underlined.
+{: .notice}
+
 
 ## Articles submitted or under revision
 ------
 
+### Attention in hindsight: Using stimulated recall to capture dynamic fluctuations in attentional engagement.
+**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D. (under review). _Psychological Methods_.  
+<a href="https://osf.io/r8ub7/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
+
+### On-task, Off-task, Rinse, & Repeat: Fluctuating patterns of attentive and mind wandering states are associated with differential outcomes.
+**Pereira, E. J.** & Ristic, J. (under review). _Journal of Experimental Psychology: General_.
+
+### Off-task behaviours run rampant across both online and laboratory data collection.
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D.  (under review). _Nature Human Behavior_.
+* Co-first authorship; equal contribution to the manuscript
+
 ### A desire for distraction: Uncovering the rates of media multitasking during online research studies.
-Drody, A. C., **Pereira, E. J.**, & Smilek, D. (under review). _Nature Human Behaviour_.  
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (under review). _Scientific Reports_.  
 <a href="https://osf.io/bd94j/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 
 
@@ -35,7 +49,7 @@ Drody, A. C., **Pereira, E. J.**, & Smilek, D. (under review). _Nature Human Beh
 <a href="https://osf.io/3kyd4/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 
 ### Trait-level variability in attention modulates mind wandering and academic achievement.
-**Pereira, E. J.**, Gurguryan, L., & Ristic, J. (2020). _Frontiers in Psychology, 11_, 909.  
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, & Ristic, J. (2020). _Frontiers in Psychology, 11_, 909.  
 <a href="/files/pdf/pereira gurguryan ristic- trait-level variability in attention modulates mind wandering and academic achievement.pdf" target="_blank"><img src="/images/icons/pdf.png" width="15" height="15"></a>&nbsp;
 <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00909/full" target="_blank"><img src="/images/icons/link.png" width="20" height="20"></a>&nbsp;
 <a href="https://osf.io/53zd9/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
@@ -84,7 +98,7 @@ Castelhano, M. S. & **Pereira, E. J.** (2017). _Quarterly Journal of Experimenta
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3836336/" target="_blank"><img src="/images/icons/link.png" width="20" height="20"></a>
 
 ### The Effect of Inhaled Menthol on Upper Airway Resistance in Humans.
-**Pereira, E. J.**, Sim, L., Driver, H. S., Parker, C. J., & Fitzpatrick, M. F. (2013). _Canadian Respiratory Journal, 20_, 1 – 4.  
+**Pereira, E. J.**, <ins>Sim, L.</ins>, Driver, H. S., Parker, C. J., & Fitzpatrick, M. F. (2013). _Canadian Respiratory Journal, 20_, 1 – 4.  
 <a href="/files/pdf/pereira sim driver parker fitzpatrick- the effect of inhaled menthol on upper airway resistance in humans.pdf" target="_blank"><img src="/images/icons/pdf.png" width="15" height="15"></a>&nbsp;
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3628651/" target="_blank"><img src="/images/icons/link.png" width="20" height="20"></a>
 
@@ -112,26 +126,20 @@ Driver, H. S., **Pereira, E. J.**, Bjerring, K., Toop, F., Stewart, S. C., Munt,
 ## Articles in preparation
 ------
 
-### Attention in hindsight: Using stimulated recall to capture detailed fluctuations in attentional engagement.
-**Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D.
-
 ### Interested minds are predictable minds: Establishing a link between individual traits and temporal fluctuations of attentional engagement.
-**Pereira, E. J.**, Ayers-Glassey, S., Wammes, J. D., & Smilek, D.
+**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D.
 
 ### Mind wandering in the real world diverges across social and digital activities.
-**Pereira, E. J.**, Gurguryan, L., & Ristic, J.
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, & Ristic, J.
 
 ### Variability in the social content of mind wandering is associated with intrinsic connectivity within the default network.
-**Pereira, E. J.**, Gurguryan, L., Sheldon, S., & Ristic, J.
+**Pereira, E. J.**, <ins>Gurguryan, L.</ins>, Sheldon, S., & Ristic, J.
 
 ### Attentional allocation during impression formation.
 **Pereira, E. J.**, Kingstone, A., & Smilek, D.
 
 ### Inhibition of attention to irrelevant scene regions: Investigating mechanisms of attention during visual search in scenes.
-**Pereira, E. J.**, Liu, Y. Q., & Castelhano, M. S.
-
-### On-task, Off-task, Rinse, & Repeat: Fluctuating patterns of attentive and mind wandering states are associated with differential outcomes.
-**Pereira, E. J.** & Ristic, J.
+**Pereira, E. J.**, <ins>Liu, Y. Q.</ins>, & Castelhano, M. S.
 
 ### Perceived attractiveness differentially modulates covert and overt measures of social attention.
 **Pereira, E. J.** & Ristic, J.
@@ -143,14 +151,14 @@ Driver, H. S., **Pereira, E. J.**, Bjerring, K., Toop, F., Stewart, S. C., Munt,
 **Pereira, E. J.** & Smilek, D.
 
 ### Online chatrooms impact attentional engagement during video lectures.
-**Pereira, E. J.**, Stuart, N., Ayers-Glassey, S., Korst-Fagundes, B., & Smilek, D.
+**Pereira, E. J.**, <ins>Stuart, N.</ins>, <ins>Ayers-Glassey, S.</ins>, Korst-Fagundes, B., & Smilek, D.
 
 ### Examining the presence of self-video in contributing to attentional and memorial deficits of Zoom fatigue.
-Ayers-Glassey, S., **Pereira, E. J.**, Hicks, L., Korst-Fagundes, B., & Smilek, D.
+<ins>Ayers-Glassey, S.</ins>, **Pereira, E. J.**, Hicks, L., Korst-Fagundes, B., & Smilek, D.
 
 ### Searching through the Clutter: Using Surface Guidance Framework to Explore Set Size Effects in Scenes.
 Castelhano, M. S., & **Pereira, E. J.**
 
 ### Attention in our digital ecosystem: A risk assessment framework of voluntary media multitasking.
-Drody, A. C., **Pereira, E. J.**, & Smilek, D.
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D.
 * Co-first authorship; equal contribution to the manuscript
