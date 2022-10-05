@@ -272,7 +272,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-#  - jemoji
+  - jemoji
 
 
 # Archives

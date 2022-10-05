@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-EDIT: My goal as a teacher and mentor is to provide students with individualized and inspired learning experiences to enable their growth as independent and conscientious scholars. As a reflection of this teaching philosophy and its application over the years, below I summarize student evaluations of the teaching assistantships that I have held over the years. These are presented as both quantitative ratings of my teaching effectiveness and teaching style, and qualitative illustrations from my teaching evaluations.
+My goal as a teacher and mentor is to provide students with individualized and inspired learning experiences to enable their growth as independent and conscientious scholars. As a reflection of this teaching philosophy and its application over the years, below I summarize student evaluations of the teaching assistantships that I have held over the years. These are presented as both quantitative ratings of my teaching effectiveness and teaching style, and qualitative illustrations from my teaching evaluations.
 
 ** denotes classes where I have received teaching assistantship awards.
 {: .notice}
@@ -15,9 +15,7 @@ EDIT: My goal as a teacher and mentor is to provide students with individualized
 ## Quantitative Summary of Teaching Effectiveness
 ------
 
-<center>
-    {% include TAeval_effectiveness.html %}
-</center>
+<iframe width="100%" height="550" frameborder="0" scrolling="no" src="//plotly.com/~effie.j.pereira/37.embed"></iframe>
 
 Student ratings of my teaching effectiveness were based on the question:
 * “_Overall, this TA was a valuable educational resource for me_” for all Queen’s University classes (from Fall 2012 to Winter 2014)
@@ -28,9 +26,7 @@ Student ratings of my teaching effectiveness were based on the question:
 ## Quantitative Summary of Teaching Style
 ------
 
-<center>
-    {% include TAeval_style.html %}
-</center>
+<iframe width="100%" height="550" frameborder="0" scrolling="no" src="//plotly.com/~effie.j.pereira/40.embed"></iframe>
 
 Student ratings of my teaching style and communication abilities were based on the question:
 * “_This TA presents information in an engaging manner and is able to keep the class interested_” for all Queen’s University classes (from Fall 2012 to Winter 2014)
