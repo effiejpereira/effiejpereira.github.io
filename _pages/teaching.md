@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-My goal as a teacher and mentor is to provide students with individualized and inspired learning experiences to enable their growth as independent and conscientious scholars. As a reflection of this teaching philosophy and its application over the years, below I summarize student evaluations of the teaching assistantships that I have held over the years. These are presented as both quantitative ratings of my teaching effectiveness and teaching style, and qualitative illustrations from my teaching evaluations.
+EDIT: My goal as a teacher and mentor is to provide students with individualized and inspired learning experiences to enable their growth as independent and conscientious scholars. As a reflection of this teaching philosophy and its application over the years, below I summarize student evaluations of the teaching assistantships that I have held over the years. These are presented as both quantitative ratings of my teaching effectiveness and teaching style, and qualitative illustrations from my teaching evaluations.
 
 ** denotes classes where I have received teaching assistantship awards.
 {: .notice}
