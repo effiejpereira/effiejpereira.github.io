@@ -29,17 +29,23 @@ As an avid programmer, I've used my technical skills to formally collaborate on 
 
 TESSA is a temporal experience sampling smartphone application that can be used for data collection outside of the laboratory. I've built TESSA to contain pre-built survey and task templates while also accepting customized Java and Swift scripting to create easy and simple experience sampling study designs.
 
+![internal](/images/software_TESSA.jpg)
+
 
 ### <ins>VICTOR (Video Teleconferencing Platform)</ins>
 `Programming Language:` Javascript
 
 VICTOR is a video teleconferencing platform that has similar functionality to Zoom and Teams, while providing full experimental control during collaborative dyad or group activities. VICTOR supports up to four participants at a time and any task that can be coded on Javascript can be integrated into the platform.
 
+![internal](/images/software_VICTOR.gif){:width="600px"}
+
 
 ### <ins>MECO (Message Communication Platform)</ins>
 `Programming Language:` Javascript
 
 MECO is a message communication platform that allows you to simulate chat conversations during online lectures. The conversations can be hard-coded and time-stamped, but my colleagues and I have been using natural language processing to create AI-powered chatbots that can build these conversations dynamically.
+
+![internal](/images/software_MECO.gif){:width="600px"}
 
 
 ## Software GUIs
