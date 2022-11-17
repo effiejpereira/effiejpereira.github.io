@@ -78,7 +78,7 @@ EEGAN currently works with BioSemi and EGI data files, though if functionality i
 
 
 ### <ins>FELIX (Fixation Listing Compiler)</ins>
-`Programming Language:` Python
+`Programming Language:` MATLAB, Python
 
 FELIX provides quick and easy functionality to compile behavioural and eye tracking datasets into one large data file. FELIX can currently:
 * Select variables to carryover into the data file.
@@ -91,7 +91,7 @@ FELIX currently works with EyeLink, Tobii, and SmartEye data files.
 
 
 ### <ins>EMMA (Eye Movement Measures Analyses)</ins>
-`Programming Language:` Python
+`Programming Language:` MATLAB, Python
 
 EMMA provides for the analyses of eye movement data across fixation, saccade, and global processing measures, and is meant to work concurrently with FELIX. EMMA can currently analyze:
 * Fixation measures that look at total number of fixations, number of fixations to regions of interest, and number of fixations within regions of interest.
