@@ -15,19 +15,23 @@ Graduate and undergraduate student trainees are underlined.
 ## Articles submitted or under revision
 ------
 
-### Attention in hindsight: Using stimulated recall to capture dynamic fluctuations in attentional engagement.
-**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D. (under review). _Psychological Methods_.  
-<a href="https://osf.io/r8ub7/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
-
 ### On-task, Off-task, Rinse, & Repeat: Fluctuating patterns of attentive and mind wandering states are associated with differential outcomes.
 **Pereira, E. J.** & Ristic, J. (under review). _Journal of Experimental Psychology: General_.
 
+### Attention in hindsight: Using stimulated recall to capture dynamic fluctuations in attentional engagement.
+**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D. (under review). _Behavior Research Methods_.  
+<a href="/files/pdf/pereira ayers-glassey wammes smilek- BRM preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
+<a href="https://osf.io/r8ub7/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
+* Co-first authorship; equal contribution to the manuscript
+
 ### Off-task behaviours run rampant across both online and laboratory data collection.
-<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D.  (under review). _Nature Human Behavior_.
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (under review). _Nature Human Behavior_.  
+<a href="/files/pdf/drody pereira smilek- NHB preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
 * Co-first authorship; equal contribution to the manuscript
 
 ### A desire for distraction: Uncovering the rates of media multitasking during online research studies.
 <ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (under review). _Scientific Reports_.  
+<a href="/files/pdf/drody pereira smilek- SR preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
 <a href="https://osf.io/bd94j/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 
 
