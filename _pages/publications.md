@@ -29,14 +29,14 @@ Graduate and undergraduate student trainees are underlined.
 <a href="/files/pdf/drody pereira smilek- NHB preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
 * Co-first authorship; equal contribution to the manuscript
 
-### A desire for distraction: Uncovering the rates of media multitasking during online research studies.
-<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (under review). _Scientific Reports_.  
-<a href="/files/pdf/drody pereira smilek- SR preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
-<a href="https://osf.io/bd94j/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
-
 
 ## Articles published in peer-review journals
 ------
+
+### A desire for distraction: Uncovering the rates of media multitasking during online research studies.
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (in press). _Scientific Reports_.  
+<a href="/files/pdf/drody pereira smilek- SR preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
+<a href="https://osf.io/bd94j/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 
 ### Social attention as a general mechanism? Demonstrating the influence of stimulus content factors on social attentional biasing.
 **Pereira, E. J.**, Birmingham, E., & Ristic, J. (2022). _Journal of Experimental Psychology: Human Perception and Performance, 48(4)_, 289 – 311.  

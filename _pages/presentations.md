@@ -12,6 +12,9 @@ Graduate and undergraduate student trainees are underlined.
 ## Talks
 ------
 
+### Cognition in hindsight: A novel way to capture dynamic changes in attentional engagement over time.
+**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D. (Jun 2023). _Talk, Canadian Psychological Association_; Toronto, ON.
+
 ### Mind-wandering is not as memorable as attentional engagement: Probe framing affects retrospective reporting of remembered attentional states.
 <ins>Ayers-Glassey, S.</ins>, **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Jul 2022). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Halifax, NS.
 
@@ -60,6 +63,9 @@ Ristic, J., Birmingham, E., & **Pereira, E. J.** (Nov 2017). _Talk, Psychonomics
 
 ## Posters
 ------
+
+### How memorable are momentary states of mind-wandering?
+<ins>Ayers-Glassey, S.</ins>, **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Feb 2023). _Poster, Lake Ontario Visionary Establishment Conference_; Niagara Falls, ON.  
 
 ### Faces may not be special for attention after all.
 **Pereira, E. J.** & Ristic, J. (Jun 2022). _Poster, Vision Sciences Society_; Virtual Meeting.  
