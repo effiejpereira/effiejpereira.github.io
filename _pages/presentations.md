@@ -12,6 +12,9 @@ Graduate and undergraduate student trainees are underlined.
 ## Talks
 ------
 
+### Using machine learning to categorize facial emotions during online video communications.
+**Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, <ins>Hicks, L.</ins>, Korst-Fagundes, B., & Smilek, D. (Jul 2023). _Talk, Canadian Society for Brain, Behaviour, and Cognitive Science_; Guelph, ON.
+
 ### Cognition in hindsight: A novel way to capture dynamic changes in attentional engagement over time.
 **Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Wammes, J. D., & Smilek, D. (Jun 2023). _Talk, Canadian Psychological Association_; Toronto, ON.
 
@@ -63,6 +66,12 @@ Ristic, J., Birmingham, E., & **Pereira, E. J.** (Nov 2017). _Talk, Psychonomics
 
 ## Posters
 ------
+
+### Are attention and learning during online video lectures influenced by the presence and relevance of chat comments? 
+<ins>Heitzner, J.</ins>, **Pereira, E. J.**, <ins>Ayers-Glassey, S.</ins>, Korst-Fagundes, B., & Smilek, D. (Jul 2023). _Poster, Canadian Society for Brain, Behaviour, and Cognitive Science_; Guelph, ON.
+
+### Examining the influence of motivation on media multitasking over time-on-task.
+<ins>Drody, A.</ins>, **Pereira, E. J.**, Ralph, B. C. W., Danckert, J., & Smilek, D. (May 2023). _Poster, Association for Psychological Science Annual Conference_; Washington, DC.
 
 ### How memorable are momentary states of mind-wandering?
 <ins>Ayers-Glassey, S.</ins>, **Pereira, E. J.**, Wammes, J. D., & Smilek, D. (Feb 2023). _Poster, Lake Ontario Visionary Establishment Conference_; Niagara Falls, ON.  

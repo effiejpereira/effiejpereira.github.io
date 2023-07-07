@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an NSERC Banting postdoctoral research fellow in the Department of Psychology at the University of Waterloo, working with Dr. Daniel Smilek in the Vision & Attention Laboratory.
+I'm currently an NSERC Banting postdoctoral research fellow in the Department of Psychology at the University of Waterloo, working with Dr. Daniel Smilek in the Vision & Attention Laboratory. In the new year, I'll be returning home to build my own laboratory as an Assistant Professor in the Department of Psychology at Queen's University!
 
-My [research](/research/) investigates the **temporal dynamics of human cognition** – in particular, I am interested in the ways that cognitive processes fluctuate over time and give rise to seemingly random variations in behaviour that are in fact quite predictable. Over the years, I have examined temporal dynamics in social attention, internal attention, and in embedded attention.
+My [research](/research/) investigates the **temporal dynamics of human cognition**, which primarily concerns how our cognitive processes fluctuate over time and give rise to seemingly random variations in behaviour that are in fact quite predictable. Over the years, I have studied temporal dynamics when attending to others, when attending to ourselves, and when attending to our environment.
 
 Outside of academia, I'm a statistics nerd and an avid baseball fan, and am usually more than happy to chat for hours about either.
 

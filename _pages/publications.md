@@ -24,18 +24,21 @@ Graduate and undergraduate student trainees are underlined.
 <a href="https://osf.io/r8ub7/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 * Co-first authorship; equal contribution to the manuscript
 
-### Off-task behaviours run rampant across both online and laboratory data collection.
-<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (under review). _Nature Human Behavior_.  
-<a href="/files/pdf/drody pereira smilek- NHB preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
-* Co-first authorship; equal contribution to the manuscript
-
 
 ## Articles published in peer-review journals
 ------
 
+### The importance of accounting for off-task behaviours during data collection.
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (2023). _Nature Human Behavior_.  
+<a href="/files/pdf/drody pereira smilek- the importance of accounting for off-task behaviours during data collection.pdf" target="_blank"><img src="/images/icons/pdf.png" width="15" height="15"></a>&nbsp;
+<a href="https://www.nature.com/articles/s41562-023-01653-2" target="_blank"><img src="/images/icons/link.png" width="20" height="20"></a>&nbsp;
+* Co-first authorship; equal contribution to the manuscript
+
 ### A desire for distraction: Uncovering the rates of media multitasking during online research studies.
-<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (in press). _Scientific Reports_.  
-<a href="/files/pdf/drody pereira smilek- SR preprint.pdf" target="_blank"><img src="/images/icons/preprint.png" width="15" height="15"></a>&nbsp;
+<ins>Drody, A. C.</ins>, **Pereira, E. J.**, & Smilek, D. (2023). _Scientific Reports, 13_, 781.  
+<a href="/files/pdf/drody pereira smilek- a desire for distraction.pdf" target="_blank"><img src="/images/icons/pdf.png" width="15" height="15"></a>&nbsp;
+<a href="/files/pdf/drody pereira smilek- a desire for distraction (supplementary).pdf" target="_blank"><img src="/images/icons/supplementary.png" width="15" height="15"></a>&nbsp;
+<a href="https://www.nature.com/articles/s41598-023-27606-3" target="_blank"><img src="/images/icons/link.png" width="20" height="20"></a>&nbsp;
 <a href="https://osf.io/bd94j/" target="_blank"><img src="/images/icons/osf.png" width="20" height="20"></a>
 
 ### Social attention as a general mechanism? Demonstrating the influence of stimulus content factors on social attentional biasing.
