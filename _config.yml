@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Effie J. Pereira"
 title_separator          : "-"
 name                     : &name "Effie J. Pereira"
-description              : &description "Effie Pereira, NSERC Banting Postdoctoral Research Fellow, University of Waterloo"
+description              : &description "Effie Pereira, Assistant Professor, Queen's University"
 url                      : https://effiejpereira.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "effiejpereira/effiejpereira.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Effie J. Pereira"
   avatar           : "ejp_profile.png"
-  bio              : "NSERC Banting Postdoctoral Research Fellow"
-  location         : "University of Waterloo, ON"
+  bio              : "Assistant Professor"
+  location         : "Queen's University, ON"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.ca/citations?user=r9zsMrIAAAAJ&hl=en"
-  email            : "effie.pereira@uwaterloo.ca"
+  email            : "effie.pereira@queensu.ca"
   researchgate     : "https://www.researchgate.net/profile/Effie_Pereira"
   uri              :
   bitbucket        :

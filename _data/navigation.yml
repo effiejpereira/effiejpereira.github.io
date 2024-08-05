@@ -4,14 +4,11 @@ main:
   - title: "Research Interests"
     url: /research/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Presentations"
-    url: /presentations/
-
   - title: "Software"
     url: /software/
+
+  - title: "Prospective Students"
+    url: /students/
 
   - title: "News"
     url: /news/

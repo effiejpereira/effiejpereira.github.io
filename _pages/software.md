@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-As an avid programmer, I've used my technical skills to formally collaborate on industry projects and to personally create open-source platforms and GUIs for the collection and processing of synchronous big data (e.g., behavioural, mouse tracking, eye tracking, and electrophysiological signals). Formal collaborative work can be found through the industry contacts listed below, and all personal projects are freely available for download by reaching me at effie.pereira[at]uwaterloo.ca.
+As an avid programmer, I've used my technical skills to formally collaborate on industry projects and to personally create open-source platforms and GUIs for the collection and processing of synchronous big data (e.g., behavioural, mouse tracking, eye tracking, and electrophysiological signals). Formal collaborative work can be found through the industry contacts listed below, and all personal projects are freely available for download by reaching me at effie.pereira[at]queensu.ca.
 {: .notice}
 
 
