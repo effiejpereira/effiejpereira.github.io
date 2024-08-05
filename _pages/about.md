@@ -14,5 +14,5 @@ Outside of academia, I'm a statistics nerd and an avid baseball fan, and am usua
 
 ------
 
-**For Fall 2025, I'll be reviewing graduate applications in the Cognitive Neuroscience and Social-Personality area for students interested in exploring attentional dynamics. Feel free to review [Queen's Psychology's general application guidelines](https://www.queensu.ca/psychology/graduate-program/prospective-students/thinking-coming-queens-psychology) and [my own Prospective Students page](/students/), and reach out over email to say hi!**
+**For Fall 2025**, I'll be reviewing graduate applications in the Cognitive Neuroscience and Social-Personality area for students interested in exploring attentional dynamics. Feel free to review [Queen's Psychology's general application guidelines](https://www.queensu.ca/psychology/graduate-program/prospective-students/thinking-coming-queens-psychology) and [my own Prospective Students page](/students/), and reach out over email to say hi!
 
