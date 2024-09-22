@@ -33,7 +33,7 @@ _That said though, this is ultimately my interpretation of what it would be like
 
 
 ### Q: What is your perspective on equity, diversity, & inclusion (EDI)?
-_My own perspective on EDI has been shaped by my experiences as a woman, an immigrant, a first-generation scholar, a member of a visible minority group, and a member of the 2SLGBTQ+ community. These backgrounds have afforded me a unique perspective on the challenges and barriers that exist for scholars of historically excluded groups in academia. As such, my perspective on EDI is that it benefits the entire field of psychological science when we ensure that everyone has the necessary supports to thrive within academia, and I am committed to ensuring that I'm always addressing these challenges and barriers for future generations of scholars and learning and practicing how to be the best ally I can be._
+_My own perspective on EDI has been shaped by my experiences as a woman, an immigrant, a first-generation scholar, a member of a visible minority group, and a member of the 2SLGBTQ+ community. These backgrounds have afforded me a unique perspective on the challenges and barriers that exist for scholars of historically excluded groups in academia. As such, my perspective on EDI is that it benefits the entire field of psychological science when we ensure that everyone has the necessary supports to thrive within academia, and I am committed to ensuring that I'm always addressing these challenges and barriers for future generations of scholars while learning and practicing how to be the best ally I can be._
 
 
 ### Q: Should I email you to express interest in working with you?
