@@ -14,14 +14,14 @@ _I created this Q&A because graduate application processes are a highly uneven p
 
 
 ### Q: Will you be taking on new students this year?
-_Yup! For Fall 2025, I'll be reviewing graduate applications in the Cognitive Neuroscience and Social-Personality area for students interested in exploring attentional dynamics across all domains. Unfortunately, due to funding restrictions at Queen's, I will be unable to review any <ins>international</ins> graduate applications, but I expect that to change next year._
+_Yup! For Fall 2026, I'll be reviewing graduate applications in the Cognitive Neuroscience and Social-Personality area for students interested in exploring attentional dynamics across all domains. Unfortunately, due to funding restrictions at Queen's, I will be unable to review any <ins>international</ins> graduate applications, but I expect that to change next year._
 
 
 ### Q: What are you looking for in a graduate student?
 * _First and foremost, it's passion. I find passion and enthusiasm to be the biggest driver of excitement in academia, and if you have a passion for science, a passion for research, a passion for stats, or a passion for coding, you'll likely be a good fit for the QuAD lab._
 * _Second, I look for persistence. I think many people in academia are naturally curious because we like learning about new topics, new methods, and new questions. But in order to learn these things, we need to be okay with failing a lot because there’s lots that we don’t know and that we'll mess up along the way to knowing. For this reason, recovering from these failures is so critical since it means being open to learning more, being open to fixing mistakes, being open to feedback, and being persistent despite struggling._
 * _Third, I look for an alignment with my research interests, such that you care about attention and are interested in how it functions and moves over time. Though I'm happy to consider co-supervision with experts in other areas, attention in all its facets will always be my bread and butter._
-* _Finally, I'm a stickler for details. I aim to do things effectively and thoroughly, as I think thorough work creates the best science, fosters the most learning, and gives you the most skills. What this means is that I tend to recruit students who like detailing their work and progress for future use, using code or programming when cleaning data and running analyses, and working through their writing so that the science that makes sense in their mind also makes sense to others._
+* _Finally, I'm a stickler for details. I aim to do things effectively and efficiently, as I think thorough work creates the best science, fosters the most learning, and gives you the most skills. What this means is that I tend to recruit students who care about the details -- they like documenting and recording their work and progress for future use, using code or programming when cleaning data and running analyses, and working through their writing so that the science that makes sense in their mind also makes sense to others._
 
 
 ### Q: What is your mentorship style?
