@@ -14,7 +14,7 @@ _I created this Q&A because graduate application processes are a highly uneven p
 
 
 ### Q: Will you be taking on new students this year?
-_Yup! For Fall 2026, I'll be reviewing graduate applications in the Cognitive Neuroscience and Social-Personality area for students interested in exploring attentional dynamics across all domains. Unfortunately, due to funding restrictions at Queen's, I will be unable to review any <ins>international</ins> graduate applications, but I expect that to change next year._
+_Yup! For Fall 2027, I'll be reviewing graduate applications in the Cognitive Neuroscience and Social-Personality area for students interested in exploring attentional dynamics across all domains. Unfortunately, due to funding restrictions at Queen's, I will be unable to review any <ins>international</ins> graduate applications, but I expect that to change next year._
 
 
 ### Q: What are you looking for in a graduate student?

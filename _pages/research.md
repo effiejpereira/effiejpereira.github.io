@@ -10,7 +10,7 @@ author_profile: true
 
 Over the decades, a majority of the work we do in attention has been directed by James’ notion of perchings and flights. For example, we know a considerable deal about how our minds stay perched and focused on an individual, a task, or a goal, and we're discovering what it means to have our minds fly away to other external objectives or to our internal mental landscape. However, we know shockingly little about what our patterns of alternation represent.
 
-As such, my research program focuses on the understudied ebbs and flows and fluctuations in attentional processes over time, known as **attentional dynamics**. By bridging complex computational approaches with behavioural, psychophysiological, and neuroimaging methods, I have explored attentional dynamics (1) in social situations, (2) across internal thoughts, and (3) within digital environments.
+As such, my research program focuses on the understudied ebbs and flows and fluctuations in attentional processes over time, known as **attentional dynamics**. By bridging complex computational approaches with behavioural, psychophysiological, and neuroimaging methods, I have explored attentional dynamics (1) across internal thoughts, (2) in social situations, and (3) within digital environments.
 
 
 
@@ -23,7 +23,7 @@ Our attention often fluctuates between our external environment (e.g., current t
 
 In my work, I have quantified attentional dynamics between external and internal states _(i)_ within individuals, _(ii)_ across tasks and traits, and _(iii)_ within neural mechanisms to uncover the effect of these patterns on real life outcomes. To date, I have found that each individual has stable and predictable patterns of internal thoughts that can be linked to distinct negative and positive outcomes in behaviour.
 
-`Collaborators:` [Samantha Ayers-Glassey](https://scholar.google.com/citations?user=XltwIo0AAAAJ&hl=en), [Dr. Sylvain Baillet](https://www.mcgill.ca/neuro/research/researchers/baillet), [Dr. Lauri Gurguryan](https://scholar.google.ca/citations?user=JBH2x7oAAAAJ&hl=en), [Dr. Jelena Ristic](http://www.mcgill.ca/asc), [Dr. Signy Sheldon](https://www.sheldonmemorylabatmcgill.com/), [Dr. Daniel Smilek](https://uwaterloo.ca/psychology/people-profiles/daniel-smilek), [Dr. Jeffrey Wammes](https://www.queensu.ca/psychology/people/faculty/jeffrey-wammes)
+`Collaborators:` [Samantha Ayers-Glassey](https://scholar.google.com/citations?user=XltwIo0AAAAJ&hl=en), [Sylvain Baillet](https://www.mcgill.ca/neuro/research/researchers/baillet), [Lauri Gurguryan](https://scholar.google.ca/citations?user=JBH2x7oAAAAJ&hl=en), [Jelena Ristic](http://www.mcgill.ca/asc), [Signy Sheldon](https://www.sheldonmemorylabatmcgill.com/), [Daniel Smilek](https://uwaterloo.ca/psychology/people-profiles/daniel-smilek), [Jeffrey Wammes](https://www.queensu.ca/psychology/people/faculty/jeffrey-wammes)
 
 
 ## Attentional Dynamics in Social Situations
@@ -35,7 +35,7 @@ Our attention often gravitates towards social information (e.g., people, faces, 
 
 In my work, I have examined the factors that impact social attention on a moment-to-moment basis _(i)_ across behavioural data, _(ii)_ within eye tracking metrics, _(iii)_ in electrophysiological states, and _(iv)_ across real-life interactions. To date, I have uncovered that attentional stability in social situations is highly impacted by the utility of this information (i.e., its direct value to us), which can be further broken down to the features of a face (e.g., its intensity or brightness) or the function it serves (e.g., projecting attractiveness or emotion).
 
-`Collaborators:` [Dr. Elina Birmingham](http://www.sargsfu.ca/), [Dr. Francesca Capozzi](https://professeurs.uqam.ca/professeur/capozzi.francesca/), [Dr. Alan Kingstone](https://psych.ubc.ca/profile/alan-kingstone/), [Dr. Jelena Ristic](http://www.mcgill.ca/asc)
+`Collaborators:` [Elina Birmingham](http://www.sargsfu.ca/), [Francesca Capozzi](https://professeurs.uqam.ca/professeur/capozzi.francesca/), [Alan Kingstone](https://psych.ubc.ca/profile/alan-kingstone/), [Jelena Ristic](http://www.mcgill.ca/asc)
 
 
 ## Attentional Dynamics within Digital Environments
@@ -47,4 +47,4 @@ Our attention is often studied in controlled laboratory environments, which typi
 
 In my work, I have developed a temporal experience sampling smartphone application (TESSA), a video teleconferencing platform (VICTOR), and a message communication platform (MECO) to craft new ways of studying how attentional dynamics vary within _(i)_ natural environments and _(ii)_ the digital world. To date, I have uncovered that attentional fluctuations dynamically evolve based on the experiential nature of the task (e.g., is it of value, does it interest me) and effortful nature of the environment (e.g., would I rather be doing something else).
 
-`Collaborators:` [Dr. Monica Castelhano](http://qvcl.queensu.ca/index.html), [Allison Drody](https://uwaterloo.ca/vision-attention-lab/people-profiles/allison-drody), [Dr. Daniel Smilek](https://uwaterloo.ca/psychology/people-profiles/daniel-smilek), [Dr. Alyssa Smith](https://scholar.google.ca/citations?user=xzCUmTcAAAAJ&hl=en)
+`Collaborators:` [Monica Castelhano](http://qvcl.queensu.ca/index.html), [Allison Drody](https://uwaterloo.ca/vision-attention-lab/people-profiles/allison-drody), [Daniel Smilek](https://uwaterloo.ca/psychology/people-profiles/daniel-smilek), [Alyssa Smith](https://scholar.google.ca/citations?user=xzCUmTcAAAAJ&hl=en)
